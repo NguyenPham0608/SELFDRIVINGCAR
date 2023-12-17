@@ -27,3 +27,4 @@ class Road{
         ctx.stroke();
     }
 } 
+
